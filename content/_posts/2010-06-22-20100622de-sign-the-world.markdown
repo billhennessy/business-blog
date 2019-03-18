@@ -1,0 +1,89 @@
+---
+author: whennessy0725@gmail.com
+date: '2010-06-22 07:58:15'
+draft: false
+title: De-sign the World
+type: post
+url: /simple-strategies/2010/06/22/de-sign-the-world
+categories:
+- Best Of
+- Design
+tags:
+- complexity
+- dangers
+- design
+- signs
+- simplicity
+---
+
+Google’s success as a search engine has nothing to do with its algorithm. It has everything to do with design. When you land on [www.google.com](http://www.google.com), there is nothing to do but enter a word or phrase into the lone box and wait for an answer. No instructions necessary. No signs.
+
+
+
+
+![](http://i.telegraph.co.uk/telegraph/multimedia/archive/01012/no-signs_1012693i.jpg)
+
+
+
+
+
+The more signs we post, the more accidents occur. 
+
+
+
+
+In Holland, a study showed that by simply removing warning signs along dangerous stretches of road, the number of accidents dropped. So the [Dutch are replacing dangerous intersections](http://www.wired.com/wired/archive/12.12/traffic.html) containing tons of signs and signals with simple roundabouts, or traffic circles. The result? [Less congestion, fewer accidents, and a more visually appealing roadway](http://newsbusters.org/blogs/brad-wilmouth/2009/09/11/cbs-finds-less-govt-regulation-means-fewer-traffic-accidents-dutch-town). 
+
+
+
+
+I believe we can spread this finding across many areas of life: how we design software systems, how we treat employees, [how we design buildings](http://sethgodin.typepad.com/seths_blog/2010/06/dont-snowglobe-me-bro.html). In fact, if we must have a rule, let’s make it this: no signs, no warnings, no helpful little messages to users.
+
+
+
+
+Hans Monderman is a Dutch traffic engineer who’s championed the elimination of road signs.
+
+
+
+
+<blockquote>Monderman considers most signs to be not only annoying but downright dangerous. To him, they are an admission of failure, a sign - literally - that a road designer somewhere hasn't done his job. "The trouble with traffic engineers is that when there's a problem with a road, they always try to add something," Monderman says. "To my mind, it's much better to remove things."
+> 
+> 
+</blockquote>
+
+
+
+
+In software design, this means software would require almost no documentation. Forms on a web page would have to be self-explanatory. Every page would need to be extremely minimalistic to avoid distraction and confusion. By eliminating the crutch of signs, we must eliminate the problems that make signs seem necessary. 
+
+
+
+
+In the end, outlawing signs requires good design. Like Google’s simple search page.
+
+
+
+
+
+{{< youtube AZnYRaQfjK4 >}}
+
+
+
+
+
+
+
+Try this today. Rip out just one sign that you’re responsible for. And remove the impediment, the hidden danger, or the complexity that made the sign seem necessary.
+
+
+
+
+  
+  * Is there a “Watch Your Step” sign nearby? Why don’t you remove the trip-hazard and the sign? 
+  * Does the application you’re building have a paragraph of text to explain how to fill out the form? Redesign the form so that the user can’t screw up. 
+  * Does a door say “Push?” Why not replace the handle with push bar so that the door’s swing direction is obvious. 
+
+
+
+Designing to make signs unnecessary makes the world safer, easier to use, and aesthetically more beautiful. We can all share that responsibility. 

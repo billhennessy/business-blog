@@ -1,0 +1,161 @@
+---
+author: whennessy0725@gmail.com
+date: '2011-11-13 08:18:58'
+draft: false
+title: Why Twilio
+type: post
+url: /simple-strategies/2011/11/13/why-twilio
+---
+
+
+
+  
+   ![](http://static1.squarespace.com/static/56c87f52356fb0ec8c23c9b7/56d09107d9fd567b5dd39bee/56d09107d9fd567b5dd39bef/1456509184223/twilio_cloud_communications__web_service_api_for_building_voice_and_sms_applications-scaled500.png)
+
+  
+
+
+
+They laughed harder when I said it would launch in a week.
+
+They're not laughing now that it's launched.
+
+
+
+
+They didn't know that all the hard work was already done for me, before I opened my IDE.
+
+
+
+
+
+
+
+**The Application**
+
+
+
+
+The application I wrote is in two parts.
+
+
+
+
+Part 1 is a simple IVR system.  People call a number and receive four options:
+
+
+
+
+
+  1. Hear a recorded message about the organization's upcoming events.
+  2. Sign up for automated calls about upcoming events
+  3. Leave a message
+  4. Unsubscribe from the automated calls.
+
+
+
+
+
+
+Part 2 is the outbound calling system.  It allows administrators to:
+
+
+
+
+
+  1. Upload new audio messages
+  2. Type new text-to-voice messages
+  3. Launch the robocaller, which calls each confirmed phone number in the database and plays the recorded message or the text-to-speech message when the person answers
+
+
+
+That's it.
+
+
+
+
+As simple as this application is, many large companies--over 2,000 employees with internal IT--cannot match it.
+
+
+
+
+Yet I, a part-time programmer, designed, developed, tested, and launched this application in a weekend. And so far it cost less than a pair of tickets to a hockey game.
+
+
+
+
+**What's My Secret?**
+
+
+
+
+My secret is Twilio.  Twilio is an amazing communications system that's so simple I can use it.  With Twilio, for about a penny per call or text, you can program your own voice response system or an interactive text messaging system.
+
+
+
+
+![Twilio_cloud_communications__web_service_api_for_building_voice_and_sms_applications](http://static1.squarespace.com/static/56c87f52356fb0ec8c23c9b7/t/56d09100d9fd567b5dd39b2e/1456509184223/twilio_cloud_communications__web_service_api_for_building_voice_and_sms_applications-scaled500.png)
+
+
+
+
+
+This voice system wasn't my first success with Twilio. In the past, I've combines Twilio with Bunchball's Nitro to create quick, powerful text and QR Code games for events.  These were a bit more complicated than the simple IVR system I described here.
+
+
+
+
+Still, with fantastic cloud APIs like Twilio and Nitro, all of the hard work I do goes toward making a great experience for my customers.  I don't spend any time making some technology work.
+
+
+
+
+As a designer, I love the freedom to create great experiences.
+
+
+
+
+**Not All Good News**
+
+
+
+
+If you're a CIO, IT director, or programmer building the guts of an IVR or SMS text system, you should check out Twilio before you write another line of code. Here's why.
+
+
+
+
+I checked with a company in St. Louis that's working on a simple text messaging solution. They expect to spend about $125,000 just getting the application built. They'll still have to pay a quarter cent per text message.  They expect to send and receive about 200,000 texts with the system.
+
+
+
+
+My application took about 20 hours to design, develop, test using a pure eXtreme Programming methodology. The organization expects to send and receive about 20,000 phone calls.  Assuming my bill rate is $225 an hour, their total cost is about $4,500 for the application and hosting, plus $0.01 per call, or $200 total.
+
+
+
+
+The big company would have to send and receive 48,200,000 messages to see a return on its investment.  At 200,000 texts per year, they'll reach payback in 241 years.
+
+
+
+
+How would you like to explain that decision to your board?
+
+
+
+
+I'll stick with great cloud API systems like Twilio and Nitro.
+
+
+
+
+Check out [Twilio](http://www.twilio.com)
+
+
+
+
+Check out [Bunchball](http://www.bunchball.com)
+
+
+

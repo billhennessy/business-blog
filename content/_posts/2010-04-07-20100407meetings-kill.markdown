@@ -1,0 +1,94 @@
+---
+author: whennessy0725@gmail.com
+date: '2010-04-07 06:28:50'
+draft: false
+title: Meetings Kill
+type: post
+url: /simple-strategies/2010/04/07/meetings-kill
+categories:
+- Business
+---
+
+[![iStock_000004624763XSmall](http://blog.hennessygrp.com/wp-content/uploads/2009/06/istock-000004624763xsmall-thumb.jpg)
+](http://blog.hennessygrp.com/wp-content/uploads/2009/06/istock-000004624763xsmall.jpg) If 100 percent of your meeting time is billable to a client, then you can stop reading. Everyone else will gain a new appreciation for the evil of business meetings. If you think “evil” is a bit too strong, consider:
+
+
+
+
+  
+  * They break your working day into small, incoherent pieces on a schedule incompatible with the natural breaks in your flow 
+  * They are normally all about words and abstract concepts, not real things (like a piece of code or a screen of design) 
+  * They usually contain an abysmal low amount of information conveyed per minute 
+  * They often contain at least one moron that inevitably get his turn to waste everyone’s time with nonsense 
+  * They drift off subject easier than a rear-wheel driven Chicago cab in heavy snow 
+  * They frequently have agendas so vague nobody is really sure what its about 
+  * They require thorough preparation that people rarely do anyway [[source](http://www.37signals.com/svn/archives2/meetings_considered_harmful.php)] 
+
+In addition to the above from [37 Signals](http://www.37signals.com/), I’ll add a few of my own:     
+  * My youngest son, now 15, received an award for perfect attendance in kindergarten while I was in a meeting (1998) 
+  * My wife needed reassurance and attention after a terrible event—but I was in a meeting (2008) 
+  * Many days, I accomplish nothing of value or meaning because I’m in meetings 
+
+
+
+Peter Drucker wrote (more than once) on the evil of meetings. Here’s a compilation, borrowed from [Jo](http://begoodventures.com/joeandwanda/?p=96#comment-790)
+
+
+
+
+Technorati Tags: [meetings](http://technorati.com/tags/meetings),[getting things done](http://technorati.com/tags/getting+things+done)
+
+
+
+
+[e and Wanda](http://begoodventures.com/joeandwanda/?p=96#comment-790):
+
+
+
+
+<blockquote>Meetings are by definition a concession to a deficient organization. For one either meets or one works. One can not do both at the same time…There will always be more than enough meetings…Every meeting generates a host of little follow-up meetings—some formal, some informal, but both stretching out for hours. Meetings, therefore, need to be purposefully directed. An undirected meeting is not just a nuisance; it is a danger. But above all, meetings have to be the exception rather than the rule. An organization where everybody meets all the time is an organization in which no one gets anything done. Wherever a time log shows the fatty degeneration of meetings—whenever, for instance people in an organization find themselves in meetings a quarter of their time or more—there is time-wasting malorganization.
+> 
+> 
+</blockquote>
+
+
+
+
+Drucker, who is still underappreciated in American business, knew of what he spoke. The evils and costs of meetings cannot be measured, and most managers and executives would deny the facts if they saw them.
+
+
+
+
+Here’s what you can do to stop this evil practice that is costing your company about 30 percent of its gross margin:
+
+
+
+
+  
+  * DON’T BLOCK YOUR CALENDAR: There are two reasons why blocking your calendar is a bad idea. First, it’s immoral because it requires you to lie in order to avoid an evil meeting. Second, most meeting planners are rude and pay no attention to your availability. Second-point-five, why should you take an extra step in order to generate income for you company? 
+  * REFUSE: Unless the request is from your boss (or one of your seventeen bosses) or a client, you should say “no.” Simple decline with the reply, “Thank you for valuing my input, but I will be preparing for [name a client/project/executive] presentation at this time.” That’s all. 
+  * LEAVE 5 MINUTES IN: The best way to make people stop inviting you to expensive meetings is to (rudely) get up and leave 5 minutes in. Regularly. As soon as you realize the meeting is a time waster less compelling than Tetris, gather your stuff and leave. Simple as that. 
+  * CHARGE YOUR TIME: If you have an internal costing system, be sure to charge your time to the organizer’s project or department. All of your time: planning, preparation, follow-up, printing, thinking about it in the car. 
+  * POST COST: Here’s an idea every manager will love: create a meeting planning template that includes a simple budget. Calculate your company’s blended labor cost rate ($50/hr is a good start). Figure 30 minutes of prep and follow-up for every hour of meeting time. The little sidebar calculator will look something like: 
+
+
+
+| Attendees: _ 5_       
+| Hours: _2 (*1.5)_       
+| Rate: _ $50        
+_ | **Cost: _ $750_**
+
+
+
+
+Before calling a meeting, state the problem in the form of a legal case analysis. State the issue in the form of a question. “Should we merge with Allerco?” Provide the background and a recommendation. Chances are, you will not need a meeting. You can send the analysis to the people you would have invited, then either make the decision or forward your final recommendation to the decision maker. At worst, you’ll hold a short meeting to argue wildly different recommendations in front of the decision maker. But follow the standard legal case analysis you learned in Business Law, and you’ll have the answer 99 percent of the time. 
+
+
+
+
+Finally, learn to hate meetings unless a client is paying for your time. 
+
+
+
+
+Technorati Tags: [Meetings](http://technorati.com/tags/Meetings),[Business](http://technorati.com/tags/Business),[Peter Drucker](http://technorati.com/tags/Peter+Drucker)

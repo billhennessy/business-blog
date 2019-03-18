@@ -1,0 +1,219 @@
+---
+author: whennessy0725@gmail.com
+date: '2014-11-15 13:31:20'
+draft: false
+title: 14 Steps to a Purpse-Driven Company
+type: post
+url: /simple-strategies/2014/11/15/14-steps-great-company
+categories:
+- Business
+---
+
+![](http://static1.squarespace.com/static/56c87f52356fb0ec8c23c9b7/56d09050d9fd567b5dd38d8b/56d0905ad9fd567b5dd38ee6/1456509801133/What-can-you-see-here-resizecrop-.jpg)
+
+  
+
+
+
+This story is about big companies who provide services to other businesses. If your business is different, you might still learning something.
+Everyone wants to have a purpose. We want our work to advance that purpose. As [Jan Bruce of meQuilibrium writes at Forbes.com](http://www.forbes.com/sites/janbruce/2013/09/24/the-purpose-driven-business-why-your-mission-matters/):
+
+
+
+
+<blockquote>The way to excel in your field and in your [business](http://www.forbes.com/business/)is the degree to which you are purpose driven. Your_why_, in other words, matters more than just your _what_.
+> 
+> </blockquote>
+
+
+
+
+### The Scenario
+
+
+
+
+Maybe this has happened to you.
+
+
+
+
+You’re on the phone with a client. The client asks you to perform some fairly basic task, like replacing a couple of images on a website with new images the client just emailed.
+
+
+
+
+“When can you have this ready for us to look at and approve,” he asks.
+
+
+
+
+You say, “Uh, let me get back to you on that.”
+
+
+
+
+“Seriously?” he says. “We sent these pictures to three other vendors, and they had it done the same day.”
+
+
+
+
+The difference is, of course, those other three vendors are small agencies. The person your client talked to is probably the person who maintains the web site. They probably made the change during the call.
+
+
+
+
+You, however, work for Big Inc. Your data security rules prohibit you from making changes to a web site. You have to fill out an online form, attach the new images, explain exactly how and where the images go, and provide a project number.
+
+
+
+
+Then, your request goes to a security queue. Even though the entire site and its contents are legally the property of the client, your security team has given itself final say on what the client can post.
+
+
+
+
+After the security team’s review, the request goes to a project management queue. A project manager will look over the request and email you with a bunch of questions. You don’t know what her questions will be, but you know from experience that the questions will come.
+
+
+
+
+Next, the project manager will send the task to a work queue. A developer will get the assignment and call you with more questions. Again, you don’t know in advance what his questions will be. If you knew, you would have included the answers in the “Other Information” box of the form before you submitted it.
+
+
+
+
+Once the developer’s done making the changes, your request goes to a quality assurance queue to wait for a QA tester to look. You will get an email from the QA tester asking more questions about the simple change. If you’re lucky. If you’re not lucky, the QA tester will simply reject the change because the initial request did not tell him the load times and memory size of the images. You have no idea what those numbers are, and you know the client won’t, either. So you email the developer to ask what they should be. But the developer won’t have time until the next day.
+
+
+
+
+And so on.
+
+
+
+
+You know other stuff from experience, too. For example, you know that your company promises to complete tickets like this one within 5 working days. But that service level agreement is void if the initial work fails QA. Or if your company finds a flaw in the materials provided by the client. Or if any one of a million other things goes wrong.
+
+
+
+
+You also know your client will rip into you if you tell him “five days.” He expects your big company to respond almost as quickly as the other agencies he works with. “No one else works like that anymore,” he’s told you a thousand times.
+
+
+
+
+If you tell the client, “It’ll be a week,” he’ll ask “why?” If you recite your company’s process, he’ll say, “I don’t want to hear that. Your competition gets this stuff done in an hour.”
+
+
+
+
+If you tell him, “it’ll be done tomorrow,” you’ll have to call him tomorrow and tell him the job was delayed.
+
+
+
+
+And so on.
+
+
+
+
+If you’ve been at this job awhile, you’re pretty good at dodging the hard conversations with clients. For instance, you can say, “Bob, I’ll put in the request as soon as we get off the phone, and I’ll email you the ETA from the developer when I get it.” Then you change the subject. “By the way, I’ll be in New York next week if you’d like to grab lunch Tuesday or Wednesday.”
+
+
+
+
+If he takes the bait, you’re home free. You have no intention of emailing him the ETA from the developer, of course, because a) the developer won’t give you an ETA, and b) the request won’t get to the developer for at least another day. Cross that bridge when you get to it.
+
+
+
+
+If he doesn’t take the bait, impress him with your multi-tasking skills. “I just forwarded the request to the developer. It usually takes him about 15 minutes to make a change like this.”
+
+
+
+
+You’re not lying, really. Swapping out images will take the developer far less than 15 minutes of actual work. In fact, the combined activity time of all five people involved will total less than 15 minutes. Those short sprints of activity, however, will occur over a period of five days no matter what you do. It’s the elapsed time that makes clients hate you.
+
+
+
+
+“That’s great,” says the client. “My legal people are all over this change, so let me know as soon as it’s ready for them to test. There’s something wrong with the images that are up now.”
+
+
+
+
+You say “of course,” hang up, and realize you’ve just deceived your best client. Again.
+
+
+
+
+###  The Problem
+
+
+
+
+I see this scenario play out all the time, and not always involving web sites. It happens with print media, with dimensional products, with simple estimates and contract changes. To the client, the fault is not your company’s. It’s yours. You look shiftless and lazy and dishonest. Your company destroys your personal brand.
+
+
+
+
+But you didn’t devise this system. You don’t even know who did. Some committee? Some long forgotten manager? No idea. But it’s the system, and it’s documented, and it’s your job to follow it.
+
+
+
+
+By following the system, though, you cannot commit to anything a client requests. You cannot even give an honest estimate. You have no control over the data security analyst’s schedule. Or the project manager’s. Or the developer’s. Or the QA tester’s. To a large degree, you don’t even have control over your own schedule.
+
+
+
+
+If you’ve ever worked in or with a small agency, you envy the nimble flexibility of your counterpart there. She can open the client’s email, download the two images, go to the web page, upload the images, and she’s done. Her agency uses an open source content management system for client sites, so no developers need to touch simple requests like this one. The client approves the changes while you’re on the phone.
+
+
+
+
+Most of my adult life, I’ve worked in small agencies and software startups. For the past eight years, I’ve worked inside a big company. I’ve seen what works and what doesn’t, and I can assure you the big company way doesn’t work. Big companies produce low quality, expensive stuff that’s obsolete before it hits the market. Big companies survive because of a psychological quirk of evolution: the brain associates mass with quality. No one ever got fired for buying IBM, the saying goes. But they did get laid off, along with everybody else, when IBM’s bloated, slow, and relatively ancient system got smoked by some startup’s software.
+
+
+
+
+### The Solution
+
+
+
+
+You’d think, having worked in companies big and small, that I’d be the perfect person to fix my big company’s problems. But I’m not. I don’t know how to fix a company that doesn’t want to be fixed. If I were in charge, though, this is what I would try.
+
+
+
+
+
+  1. **Know your company’s purpose**. Would the world be worse off if your company closed tomorrow? How do you make life better? Your company must have a purpose, and its purpose must inspire outsiders to root for your company. If your purpose is just to make money, no one will help you. If your true purpose is something bigger, you’ll win fans.
+  2. **Measure every decision against your purpose**. Every decision must advance your company’s purpose. At Anheuser Busch, I was told over and over, “everything you do must help us make more beer or sell more beer. If you’re doing something that doesn’t seem to support one of those two goals, stop doing it and ask someone to help you figure it out.” Whatever your purpose, every activity by every employee must be perfectly aligned to that purpose.
+  3. **Everything you do must benefit the customer**. Every decision you make, from who to hire or promote, how to organize your management, how much to pay, which benefits to offer, and what color to paint your lobby, must help the customer. If it doesn’t, don’t do it.
+  4. **Empower front line people to do as much as reasonably possible themselves**. Front line empowerment shouldn’t be limited to call center agents and floor clerks. Anyone who faces a customer should be empowered to do everything possible to satisfy the customer while he waits. If that means your firm needs new systems, get them. If that means massive cross-training, do it. Stop dividing a single task, like changing images, into five illogical steps.
+  5. **Make change easy**. Face it, if customers stop asking for changes, you’re out of business. You get paid to create change on behalf of customers. Your systems and processes and training should drive people to look forward to change requests. Whether you’re a marketing agency or a software shop or a dry goods store, your survival depends on changing a customer’s life for the better. Get good at it, and eliminate everything that gets in the way.
+  6. **Stop paying people for time; start paying them for results**. If you bill clients by the hour, you have a strong incentive to be inefficient. If you get paid by the result, you have an incentive to get stuff done fast. Most big companies I work with like the lazy way of charging by the hour. They increase revenue by padding everything and by adding complexity. Eventually, all their customers will fire them and take business to someone who delivers results instead of mere activity.
+  7. **Work with small, nimble agencies to see how they operate, and steal idea you can**. Most companies measure their performance against two standards: themselves (or their recent past), and companies bigger than themselves. The first standard is necessary. You have to know where you’ve been to figure out if you’re getting better. But the second measure will kill you. Don’t look up—look across and down. What do fast-growing, small companies do? How do they thrive without all your heft?
+  8. **Eliminate layers of management ruthlessly**. Every worker pays the salary of his or her managers, all the way up to the CEO. A call center agent must generate enough revenue to pay her salary and benefits and resources, like phone lines and computer systems and utilities and rent. Then she must generate more revenue to cover all those things for her supervisor. And for her supervisor’s manager. And the manager’s executive. And the executive’s assistant. And the CEO. Management is always a burden on workers and on customers, so eliminate every layer of management you can.Then eliminate one more layer.
+  9. **Sell by not selling. **Don’t try to sell something that your customer doesn’t want or need just because you want to make more money. Some people take spaghetti approach to uncovering unarticulated needs. They throw everything at the customer and see if he buys something. That doesn’t work. You have to know your customer intimately, and know the industry they’re in. Then craft a solution for the problem the customer didn’t know he had. That takes risk, work, and creativity—exactly what customers pay you for.
+  10. **Make your entire company read Anything You Want by Derek Sivers**. Avoid the trap he describes:
+
+
+<blockquote>But even well-meaning companies accidentally get trapped in survival mode. A business is started to solve a problem. But if the problem was truly solved, that business would no longer be needed! So the business accidentally or unconsciously keeps the problem around so that they can keep solving it for a fee.
+> 
+> </blockquote>
+
+
+
+
+Sivers, Derek (2011-06-29). [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118) (pp. 31-32). AmazonEncore. [Kindle Edition](http://www.amazon.com/Anything-You-Want-Derek-Sivers-ebook/dp/B00506NRBS/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=).
+  11. **Act small**. You are a big company. Stop trying to impress people with your size. When you think about how big and mighty you are, you don’t just look arrogant, you become arrogant. When you think and act little, you become humble and nimble. Don’t ask, “what would Coca-Cola do?” Ask “What would a Hubspot do?” (If you don’t know what Hubspot is, learn.) Your customers know you’re big. They’ve heard of you. If they care, they’ve checked you out on Glassdoor and LinkedIn. If you’re big, they’re impressed. If you act like a startup when the meet you, they’ll be more impressed. If you act like a giant, they’ll lose confidence.
+  12. **Ruthlessly eliminate work that customers don’t value**. In the scenario, the customer wanted two images replaced in a reasonable amount of time—reasonableness set by the market. He wasn’t willing to pay for anything else. Eliminate what customers won’t pay for.
+  13. **Isolate niche activities**. If you have many customers, some might value an activity that most do not. Instead of bloating all your accounts with this niche activity, isolate it.
+  14. **Take all the medicine you prescribe**. If you sell incentive programs, your company better have the best incentive programs in the world. If you sell training, your employees better be the best trained in the world. If you sell technology, your technology better be cutting edge and excellent. Too many big companies refuse to use their own products. What does is it say to customers when your products aren't good enough for you?
+
+
+
+All fourteen points revolve around the first: know your purpose. Without purpose, you’ll end up just ripping people off.

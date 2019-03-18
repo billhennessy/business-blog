@@ -1,0 +1,35 @@
+---
+author: whennessy0725@gmail.com
+date: '2010-12-21 06:41:22'
+draft: false
+title: Says Who?
+type: post
+url: /simple-strategies/2010/12/21/says-who
+categories:
+- Business
+tags:
+- best practices
+- honesty
+---
+
+Who decides which practices are the best ones?  
+
+
+
+
+I hear all the time about [best practices](http://info.k4health.org/practices.shtml). Every company I’ve worked with in the past 12 years talked about following best practices.  
+
+
+
+
+What I don't know (what they’ve never bothered to explain) is who decides something is a best practice. These are [weasel words](http://sethgodin.typepad.com/seths_blog/2005/08/weasels.html)--a new way of saying “everybody’s doing it.” 
+
+
+
+
+I’ll believe that a practice really is best when it produces higher quality, better profits, more flexibility, and happier people.
+
+
+
+
+Until then, just be honest and say, “this is the way I prefer doing things.”  
